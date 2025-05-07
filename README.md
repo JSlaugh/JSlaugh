@@ -19,6 +19,6 @@ I'm currently exploring advanced concepts in **serverless architecture** and **p
 
 ## 📫 Let's Connect!
 
--   **LinkedIn:** https://www.linkedin.com/in/joe-slaugh/
+-   **LinkedIn:** [Joe-Slaugh](https://www.linkedin.com/in/joe-slaugh/)
 
 Thanks for stopping by! 🚀
